@@ -1,0 +1,14 @@
+plugins{
+  id 'com.android.application'
+}
+android {
+  namespace 'com.voidshop.app'
+  compileSdk 34
+  defaultConfig {
+    applicationId "com.voidshop.app"
+    minSdk 22
+    targetSdk 34
+    versionCode 1
+    versionName "1.0"
+  }
+}
