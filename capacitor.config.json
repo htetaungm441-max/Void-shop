@@ -1,6 +1,6 @@
 {
   "appId": "com.voidshop.app",
   "appName": "Void Shop",
-  "webDir": "www",
+  "webDir": ".",
   "bundledWebRuntime": false
 }
